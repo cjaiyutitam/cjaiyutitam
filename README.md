@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cjaiyutitam
+- 👋 Hi, I’m @chanchai
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning basic data science
 - 💞️ I’m looking to collaborate on basic machine learning project
